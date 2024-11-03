@@ -1,2 +1,2 @@
-# ffifapi
-Firefox Interface API over Websockets
+# Firefox Interface API Extension over Websockets
+
